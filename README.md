@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Paul Gitonga
+- 👀 I’m interested in Machine Learning, AI and Fullstack development
+- 📫 you can reach me via paulgitonga58@gmail.com
+- And I'm also an avid Climate Justice activist
